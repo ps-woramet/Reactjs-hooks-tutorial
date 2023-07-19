@@ -530,7 +530,7 @@
 
                 export default UseReducerxUseContextCom
 
-            -child component ทำการเรียกใช้ dispatch จากนั้น state ที่ parent component จะถูกแก้ไขและค่า state ที่ส่งทาง props parent component จะถูกแก้ไข
+            -child component ทำการเรียกใช้ dispatch จากนั้น state ที่ parent component จะถูกแก้ไข และค่า state ที่ส่งทาง props จาก parent component จะถูกแก้ไขด้วย
 
                 return (
                     <div>
